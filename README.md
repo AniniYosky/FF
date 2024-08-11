@@ -14,12 +14,12 @@ _I'll only respond to those proposals that are a good match for my schedule and 
 
 <div align="center">
   <pre style="display: inline-block; border: 1px solid; padding: 10px;">
- ________  ___ _   _ 
-/  ___|  \/  || | | |
-\ `--.| .  . || |_| |
- `--. \ |\/| ||  _  |
-/\__/ / |  | || | | |
-\____/\_|  |_/\_| |_/
+ ___  ___     _________
+ |  \/  |    |_____   /
+ | .  . | ___     / /
+ | |\/| | ___    / /
+ | |  | |       / /___ 
+ \_|  |_/    /________|
    
 Social Media Hacking Toolkit
   </pre>
