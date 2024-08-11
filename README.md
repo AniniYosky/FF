@@ -16,8 +16,8 @@ _I'll only respond to those proposals that are a good match for my schedule and 
   <pre style="display: inline-block; border: 1px solid; padding: 10px;">
  ___  ___     _________
  |  \/  |    |_____   /
-| .  . | ___     / /
-| |\/| | ___    / /
+ | .  . | ___     / /
+ | |\/| | ___    / /
  | |  | |       / /___ 
  \_|  |_/    /________|
    
